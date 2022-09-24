@@ -1,0 +1,6 @@
+{
+    "token":"token",
+    "tranferFrom":"転送元のチャンネルID",
+    "transferTo":"転送先のwebhookURL",
+    "mainRoom":"メインルームのチャンネルID" 
+}
