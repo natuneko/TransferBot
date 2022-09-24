@@ -1,2 +1,2 @@
-# Tranfer Bot
+# Transfer Bot
 DiscordのサーバーチャットをWebhookで転送するBot
